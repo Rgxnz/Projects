@@ -1,1 +1,3 @@
 URL VIDEO: https://monlaues-my.sharepoint.com/:v:/g/personal/oriolarcroi_campus_monlau_com/EYVIqSDFUmNHny64eredD84BXz9NUy4Mt_re8CHdLfOGpw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=M6rplO
+
+panaderia_api contiene la base de datos "pancomido.sql"
